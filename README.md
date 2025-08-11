@@ -12,6 +12,8 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Rx0M74_2rkc5sdzC92fuDNCgzSHdGZQa/view)
 
+- 👋 fun fact I treat coding projects like Pokémon—I’ve gotta catch ’em all
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
