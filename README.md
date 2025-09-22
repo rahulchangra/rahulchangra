@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **changrarahul55@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Rx0M74_2rkc5sdzC92fuDNCgzSHdGZQa/view)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1Rx0M74_2rkc5sdzC92fuDNCgzSHdGZQa/view](https://drive.google.com/file/d/1YuOBYjNX2CbecHSsT3TWsru2GVoByfaM/view?usp=drive_link))
 
 - 👋 fun fact I treat coding projects like Pokémon—I’ve gotta catch ’em all
 
