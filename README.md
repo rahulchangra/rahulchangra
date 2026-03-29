@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Changra</h1>
 
-- 🔭 I’m currently working on [AMRIT-Portal](https://amritwprdev.piramalswasthya.org/aam/)
+- 🔭 I have worked on [AMRIT-Portal](https://amritwprdev.piramalswasthya.org/aam/)
 
 - 🌱 I’m currently learning **genAI**
 
